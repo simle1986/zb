@@ -3488,3 +3488,5 @@ live.nctv.top
 pull-hsbj.vzan.com
 play-hsbj.vzan.com
 smt.veryfast.filegear-sg.me
+diyp.store
+156.238.248.80

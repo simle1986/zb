@@ -3486,3 +3486,5 @@ live.nctv.top
 58.46.68.236
 123.145.26.13
 pull-hsbj.vzan.com
+play-hsbj.vzan.com
+smt.veryfast.filegear-sg.me
